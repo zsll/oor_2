@@ -4,6 +4,6 @@ class Constant
   end
 
   def self.gender
-    {:female => 'guy', :male => 'gal', :else => '*@#$'}
+    {:female => 'gal', :male => 'guy', :else => '*@#$'}
   end
 end
